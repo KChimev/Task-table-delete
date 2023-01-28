@@ -1,0 +1,29 @@
+body{
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+overflow: hidden;
+}
+
+.check{
+width: 23px;
+height: 23px;
+margin-left: 25px;
+margin-top: 5px;
+}
+.all{
+position: absolute;
+top: 200px;
+left:498px;        
+}
+
+[data-check-all]{
+width: 23px;
+height: 23px;
+margin-left: 25px;
+margin-top: 5px;
+position: absolute;
+top: 200px;
+left:498px;    
+}
